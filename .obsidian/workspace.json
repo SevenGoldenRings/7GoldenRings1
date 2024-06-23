@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML import/test 023.md",
+                "file": "HTMLimport/test 023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML import/test 023.md",
+                "file": "HTMLimport/test 023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML import/test 023.md",
+                "file": "HTMLimport/test 023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML import/test 023.md"
+                "file": "HTMLimport/test 023.md"
               }
             }
           },
@@ -180,8 +180,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a03d804f0dcc99ee",
+  "active": "904c7c07b4497451",
   "lastOpenFiles": [
+    "index.html",
     "style.css.map",
     "prepros.config",
     "style.css",
@@ -192,9 +193,8 @@
     "css",
     "Nouveau dossier",
     "pandoc-templates/template.html",
-    "pandoc-templates",
     "guidebook/test01.md",
-    "HTML import/test 023.md",
+    "HTMLimport/test 023.md",
     "templates/Royaume.md",
     "guidebook/test 02.md",
     "Sans titre.md"
