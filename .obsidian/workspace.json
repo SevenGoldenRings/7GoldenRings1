@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guidebook/Sans titre.md",
+                "file": "guidebook/test01.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guidebook/Sans titre.md",
+                "file": "guidebook/test01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03d804f0dcc99ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "guidebook/test 02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guidebook/Sans titre.md",
+                "file": "guidebook/test 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guidebook/Sans titre.md",
+                "file": "guidebook/test 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guidebook/Sans titre.md"
+                "file": "guidebook/test 02.md"
               }
             }
           },
@@ -167,10 +179,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4c709b73e3415e66",
+  "active": "a03d804f0dcc99ee",
   "lastOpenFiles": [
-    "guidebook/Sans titre 1.md",
-    "guidebook/Sans titre.md",
+    "guidebook/test01.md",
+    "guidebook/test 02.md",
+    "templates/Royaume.md",
+    "Sans titre.md",
+    "templates",
     "testdoc",
     "test/7GoldenRings",
     "test",
