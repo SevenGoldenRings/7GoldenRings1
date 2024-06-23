@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": "C:\\Users\\utilisateur1\\Dropbox\\7GoldenRings\\testhtml",
-  "extraArguments": "--standalone",
-  "exportFrom": "md"
+  "extraArguments": "--template=C:\\Users\\utilisateur1\\Dropbox\\7GoldenRings\\pandoc-templates\\template.html",
+  "exportFrom": "html"
 }

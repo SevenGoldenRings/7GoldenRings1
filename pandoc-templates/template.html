@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>$title$</title>
+    $if(header-includes)$
+    $header-includes$
+    $endif$
+    $if(css)$
+    $for(css)$
+    <link rel="stylesheet" href="$css$">
+    $endfor$
+    $endif$
+    $if(stylesheet)$
+    <link rel="stylesheet" href="$stylesheet$">
+    $endif$
+    <!-- Ajouter la feuille de style si la classe "style" est présente -->
+    $if(has-class("style"))$
+    <link rel="stylesheet" href="style.css">
+    $endif$
+</head>
+<body>
+    $body$
+</body>
+</html>

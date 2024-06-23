@@ -182,6 +182,8 @@
   },
   "active": "a03d804f0dcc99ee",
   "lastOpenFiles": [
+    "pandoc-templates/template.html",
+    "pandoc-templates",
     "testhtml/test 023.html",
     "testhtml/test 02.html",
     "guidebook/test01.md",
@@ -195,8 +197,6 @@
     "Sans titre.md",
     "templates",
     "testdoc",
-    "test/7GoldenRings",
-    "test",
-    "annonces"
+    "test/7GoldenRings"
   ]
 }
