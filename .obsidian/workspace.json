@@ -182,7 +182,9 @@
   },
   "active": "a03d804f0dcc99ee",
   "lastOpenFiles": [
+    "style.css.map",
     "prepros.config",
+    "style.css",
     "variables.scss",
     "style.scss",
     "components.scss",
@@ -191,8 +193,6 @@
     "Nouveau dossier",
     "pandoc-templates/template.html",
     "pandoc-templates",
-    "testhtml/test 023.html",
-    "testhtml/test 02.html",
     "guidebook/test01.md",
     "HTML import/test 023.md",
     "templates/Royaume.md",
