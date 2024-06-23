@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Royaume.md",
+                "file": "HTML import/test 023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Royaume.md",
+                "file": "HTML import/test 023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Royaume.md",
+                "file": "HTML import/test 023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Royaume.md"
+                "file": "HTML import/test 023.md"
               }
             }
           },
@@ -176,21 +176,27 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "a03d804f0dcc99ee",
   "lastOpenFiles": [
+    "testhtml/test 023.html",
+    "testhtml/test 02.html",
     "guidebook/test01.md",
-    "guidebook/test 02.md",
+    "testhtml",
+    "Nouveau dossier",
+    "HTML import/test 023.md",
+    "HTML import",
     "templates/Royaume.md",
+    "guidebook/test 02.html",
+    "guidebook/test 02.md",
     "Sans titre.md",
     "templates",
     "testdoc",
     "test/7GoldenRings",
     "test",
-    "Nouveau dossier",
-    "annonces",
-    "guidebook"
+    "annonces"
   ]
 }
